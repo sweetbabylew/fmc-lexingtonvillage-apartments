@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1090" viewBox="0 0 768 1090" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Lexington Village two-bedroom floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="17" y="12" width="725" height="1065"/>
+<path class="w" d="M116,6 V65 M116,240 V274 M192,282 V462 M192,564 V582 M192,589 V619 M192,709 V876 M327,282 V431 M327,522 V734 M638,282 V315 M638,402 V425 M13,287 H212 M302,287 H741 M648,428 H741 M322,530 H741 M13,596 H197 M13,735 H195 M321,735 H431 M705,735 H741 M13,872 H56 M146,872 H197"/>
+<path class="d" d="M116,239 V278 M192,325 V346 M192,448 V465 M192,564 V624 M192,703 V754 M192,855 V876 M732,428 H750 M189,596 H204 M189,735 H203"/>
+<path class="win" d="M737,96 V203 M742,96 V203 M747,96 V203 M735,96 H749 M735,203 H749"/>
+<path class="win" d="M737,418 V537 M742,418 V537 M747,418 V537 M735,418 H749 M735,537 H749"/>
+<path class="win" d="M737,772 V900 M742,772 V900 M747,772 V900 M735,772 H749 M735,900 H749"/>
+<path class="arc" d="M52,1077 V970 M52,970 A107,107 0 0 1 159,1077"/>
+<path class="wo" d="M17,12 H742 V96 M742,203 V418 M742,537 V772 M742,900 V1077 H159 M52,1077 H17 V12"/>
+<text class="rm" x="470" y="155">Bedroom</text>
+<text class="rm" x="475" y="415">Bedroom</text>
+<text class="rm" x="530" y="645">Kitchen</text>
+<text class="rm" x="470" y="875">Living Room</text>
+<text class="rm" x="85" y="460">Bath</text>
+<text class="cl" x="255" y="480">Hall</text>
+<text class="cl" x="90" y="660">HVAC</text>
+<text class="cl" x="65" y="150">Closet</text>
+<text class="cl" x="685" y="350">Closet</text>
+<text class="cl" x="105" y="840">Closet</text>
+</svg>
