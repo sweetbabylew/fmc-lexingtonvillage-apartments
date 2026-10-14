@@ -12,12 +12,12 @@
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
 <rect class="fp" x="20" y="21" width="846" height="964"/>
-<path class="w" d="M504,293 V632 M625,294 V398 M705,14 V83 M705,269 V310 M745,619 V720 M13,303 H512 M613,303 H871 M626,503 H873 M14,625 H66 M371,625 H511 M615,625 H873 M753,827 H871"/>
+<path class="w" d="M20,303 L504,303 L504,625 L371,625 M866,303 L625,303 L625,398 M626,503 L866,503 M20,625 L66,625 M615,625 L866,625 M753,827 L866,827 M705,21 L705,83 M705,269 L705,303 M745,625 L745,720"/>
 <path class="d" d="M697,83 V269 M711,83 V269 M617,398 V503 M631,398 V503 M617,503 V625 M631,503 V625 M739,720 V822 M753,720 V822 M512,295 H613 M512,309 H613 M66,617 H371 M66,631 H371"/>
 <path class="win" d="M15,104 V220 M20,104 V220 M25,104 V220 M13,104 H27 M13,220 H27"/>
 <path class="win" d="M15,651 V770 M20,651 V770 M25,651 V770 M13,651 H27 M13,770 H27"/>
 <path class="arc" d="M756,985 V879 M650,985 A106,106 0 0 1 756,879"/>
-<path class="wo" d="M20,21 H866 V985 H756 M650,985 H20 V770 M20,651 V220 M20,104 V21"/>
+<path class="wo" d="M20,21 H866 V985 H756 M650,985 H20 V770 M20,651 V220 M20,104 V21 H30"/>
 <text class="rm" x="230" y="165">Bedroom</text>
 <text class="rm" x="255" y="470">Kitchen</text>
 <text class="rm" x="405" y="815">Living Room</text>
